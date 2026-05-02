@@ -33,7 +33,7 @@ FlowPay e um app Android offline para controlar compromissos financeiros mensais
 
 O projeto ja inclui Gradle Wrapper. O SDK Android foi configurado localmente em:
 
-`C:\Users\Franklin\AppData\Local\Android\Sdk`
+`C:\Users\NOME-USUARIO\AppData\Local\Android\Sdk`
 
 Comandos validados:
 
